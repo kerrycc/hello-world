@@ -1,7 +1,3 @@
 this is second updated
 this is thirdd updated
-<<<<<<< HEAD
 this is fourth updated by master
-=======
-this is fourth update by third-branch
->>>>>>> Third-Branch
